@@ -1,1 +1,1 @@
-# first_app
+# first_app Ruby on Rails
